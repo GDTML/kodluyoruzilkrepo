@@ -22,3 +22,7 @@ code .
 
 ## License 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+
+![Proje Resmi](https://github.com/GDTML/kodluyoruzilkrepo/blob/f16c75e9c8ae9f41f6bd08e58dd4817dc1e2c96e/prj.png)
+
